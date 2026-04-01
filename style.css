@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f2f2f2;
+}
+
+input, textarea {
+    padding: 10px;
+    width: 250px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+}
